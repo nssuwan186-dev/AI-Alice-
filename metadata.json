@@ -1,0 +1,5 @@
+{
+  "name": "AI Hotel ERP Assistant",
+  "description": "An AI-powered chat interface for a Hotel Enterprise Resource Planning (ERP) system. Uses Gemini Function Calling to manage room status, bookings, finances, and more, with real-time data from Firebase.",
+  "requestFramePermissions": []
+}
